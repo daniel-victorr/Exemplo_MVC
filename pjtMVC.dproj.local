@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/25 11:53:55.000.867,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/25 14:43:57.000.770,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/25 14:45:31.000.396,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/02/25 14:46:11.000.805,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\daniel\Desktop\ExemploMVC\View\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/02/25 14:46:11.000.805,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\daniel\Desktop\ExemploMVC\View\uFrmPrincipal.pas</Transaction>
+    <Transaction>2022/02/25 14:46:45.000.459,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit7.pas=C:\Users\daniel\Desktop\ExemploMVC\View\uFrmCadastrarCliente.pas</Transaction>
+    <Transaction>2022/02/25 14:46:45.000.459,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit7.dfm=C:\Users\daniel\Desktop\ExemploMVC\View\uFrmCadastrarCliente.dfm</Transaction>
+    <Transaction>2022/02/25 14:47:00.000.264,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\daniel\Desktop\ExemploMVC\pjtMVC.dproj</Transaction>
+    <Transaction>2022/02/26 19:37:36.023,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 19:38:10.518,C:\Users\daniel\Desktop\ExemploMVC\Model\uClienteModel.pas=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:11:38.282,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:12:01.064,C:\Users\daniel\Desktop\ExemploMVC\uClienteController.pas=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:21:18.448,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:22:09.467,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:23:58.112,C:\Users\daniel\Desktop\ExemploMVC\Controller\uuClienteController.pas=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:34:00.422,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 20:34:20.187,C:\Users\daniel\Desktop\ExemploMVC\Controller\uClienteController.pas=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 21:39:47.796,=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 21:59:12.105,C:\Users\daniel\Desktop\ExemploMVC\Dao\uDmConexao.dfm=C:\Users\daniel\Desktop\ExemploMVC\Unit1.dfm</Transaction>
+    <Transaction>2022/02/28 21:59:12.105,C:\Users\daniel\Desktop\ExemploMVC\Dao\uDmConexao.pas=C:\Users\daniel\Desktop\ExemploMVC\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
